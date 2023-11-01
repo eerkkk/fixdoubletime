@@ -4,7 +4,7 @@ layout: privacy
 draft: false
 policy: "Thank you for visiting fixdoubletime.com. Your privacy is important to us, and we are committed to protecting it. This Privacy Policy outlines the types of personal information we collect, how it is used, and your choices regarding that information.
 
-# Information We Collect
+Information We Collect
 
 Personal Information: We may collect information that you provide directly to us, such as your name, email address, and any other information you choose to provide.
 Automatically Collected Information: We may automatically collect certain information about your device, including your IP address, browser type, operating system, and other technical information.
