@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
+  title: Let us solve your critical remote team management problems.
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
   image: /images/banner-art.svg
   button:
@@ -32,8 +32,8 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Tailored Remote Team Management"
+    content: "Our consultants will help you optimize your remote team management strategies, and provide strategic advice."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -43,8 +43,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Empowering Developer Engagement"
+    content: "Our comprehensive approach focuses on enhancing employee engagement through personalized development programs and fostering a healthy work-life balance, ensuring your team remains dedicated, motivated, and committed to their roles without resorting to multiple jobs."
     images: 
       - "/images/service-slide-1.png"
     button:
@@ -52,8 +52,8 @@ services:
       label: Check it out
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Team Building Solutions"
+    content: "Revitalize your software team's synergy and productivity with our tailored team-building solution, designed to foster collaboration, boost morale, and drive innovation in your development projects."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
