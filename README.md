@@ -40,7 +40,6 @@
 - 📞 Contact Page
 - 📄 Features Page
 - ❓ FAQ Page
-- 💰 Pricing Page
 - 🔒 Privacy Policy Page
 - 🔒 Terms and Condition Page
 

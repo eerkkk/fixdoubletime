@@ -3,6 +3,7 @@ import Base from "@layouts/Baseof";
 import Contact from "@layouts/Contact";
 import Default from "@layouts/Default";
 import Faq from "@layouts/Faq";
+import Privacy from "@layouts/Privacy";
 import { getRegularPage, getSinglePage } from "@lib/contentParser";
 
 // for all regular pages
@@ -26,7 +27,9 @@ const RegularPages = ({ data }) => {
         <Contact data={data} />
       ) : layout === "faq" ? (
         <Faq data={data} />
-      ) : (
+      ) : layout === "privacy" ? (
+        <Privacy data={data} />
+      ): (
         <Default data={data} />
       )}
     </Base>
